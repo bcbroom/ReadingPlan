@@ -1,0 +1,199 @@
+---
+- name: Genesis
+  code: Gen
+  length: 50
+- name: Exodus
+  code: Ex
+  length: 40
+- name: Leviticus
+  code: Lev
+  length: 27
+- name: Numbers
+  code: Num
+  length: 36
+- name: Deuteronomy
+  code: Deut
+  length: 34
+- name: Joshua
+  code: Josh
+  length: 24
+- name: Judges
+  code: Jud
+  length: 21
+- name: Ruth
+  code: Ruth
+  length: 4
+- name: 1 Samuel
+  code: 1 Sa
+  length: 31
+- name: 2 Samuel
+  code: 2 Sa
+  length: 24
+- name: 1 Kings
+  code: 1 Ki
+  length: 22
+- name: 2 Kings
+  code: 2 Ki
+  length: 25
+- name: 1 Chronicles
+  code: 1 Chron
+  length: 29
+- name: 2 Chronicles
+  code: 2 Chron
+  length: 36
+- name: Ezra
+  code: Ezra
+  length: 10
+- name: Nehemiah
+  code: Neh
+  length: 13
+- name: Esther
+  code: Est
+  length: 10
+- name: Job
+  code: Job
+  length: 42
+- name: Psalms
+  code: Ps
+  length: 150
+- name: Proverbs
+  code: Pr
+  length: 31
+- name: Ecclesiastes
+  code: Eccl
+  length: 12
+- name: Song of Songs
+  code: Song
+  length: 8
+- name: Isaiah
+  code: Isa
+  length: 66
+- name: Jeremiah
+  code: Jer
+  length: 52
+- name: Lamentations
+  code: Lam
+  length: 5
+- name: Ezekial
+  code: Eze
+  length: 48
+- name: Daniel
+  code: Dan
+  length: 12
+- name: Hosea
+  code: Hos
+  length: 14
+- name: Joel
+  code: Joel
+  length: 3
+- name: Amos
+  code: Amos
+  length: 9
+- name: Obadiah
+  code: Obad
+  length: 1
+- name: Jonah
+  code: Jonah
+  length: 14
+- name: Micah
+  code: Mic
+  length: 7
+- name: Nahum
+  code: Nah
+  length: 3
+- name: Habakkuk
+  code: Hab
+  length: 3
+- name: Zehpaniah
+  code: Zeph
+  length: 3
+- name: Haggai
+  code: Hag
+  length: 2
+- name: Zechariah
+  code: Zech
+  length: 14
+- name: Malachi
+  code: Mal
+  length: 4
+- name: Matthew
+  code: Mt
+  length: 28
+- name: Mark
+  code: Mk
+  length: 16
+- name: Luke
+  code: Lu
+  length: 24
+- name: John
+  code: Jn
+  length: 21
+- name: Acts
+  code: Ac
+  length: 28
+- name: Romans
+  code: Rom
+  length: 16
+- name: 1 Corinthians
+  code: 1Cor
+  length: 16
+- name: 2 Corinthians
+  code: 2Cor
+  length: 13
+- name: Galatians
+  code: Gal
+  length: 6
+- name: Ephesians
+  code: Eph
+  length: 6
+- name: Philippians
+  code: Phil
+  length: 4
+- name: Colossians
+  code: Col
+  length: 4
+- name: 1 Thessalonians
+  code: 1Th
+  length: 5
+- name: 2 Thessalonians
+  code: 2Th
+  length: 3
+- name: 1 Timothy
+  code: 1Ti
+  length: 6
+- name: 2 Timothy
+  code: 2Ti
+  length: 4
+- name: Titus
+  code: Ti
+  length: 3
+- name: Philemon
+  code: Phi
+  length: 1
+- name: Hebrews
+  code: Heb
+  length: 13
+- name: James
+  code: Ja
+  length: 5
+- name: 1 Peter
+  code: 1Pe
+  length: 5
+- name: 2 Peter
+  code: 2Pe
+  length: 3
+- name: 1 John
+  code: 1Jn
+  length: 5
+- name: 2 John
+  code: 2Jn
+  length: 1
+- name: 3 John
+  code: 3Jn
+  length: 1
+- name: Jude
+  code: Jude
+  length: 1
+- name: Revelation
+  code: Rev
+  length: 22
